@@ -1,6 +1,8 @@
 # ddd
 Doubly Robust DDD estimators for the group-time average treatment effects Use ddd (triplediff) With (In) R Software
 
+https://www.youtube.com/watch?v=GPYE1W0dlhU
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
